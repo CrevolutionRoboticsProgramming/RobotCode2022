@@ -7,8 +7,4 @@ public class Indexer extends SubsystemBase {
     public Indexer() {
     }
 
-    @Override
-    public void periodic() {
-        // This method will be called once per scheduler run
-    }
 }
