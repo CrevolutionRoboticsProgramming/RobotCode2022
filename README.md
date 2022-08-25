@@ -19,7 +19,7 @@ Robot code for the 2022 FRC season Rapid React
 | Subsystems | Motors | Pneumatics | Sensors |
 | --- | --- | --- | --- |
 | Drivetrain | 6 Neos/SparkMax | 1 DoubleSolenoid | 1 Pigeon IMU |
-| Intake | --- | --- | --- |
-| Indexer | --- | --- | --- |
-| Shooter | 1 Falcon500/TalonFX | --- | 1 Integrated Encoder |
-| Climber | --- | --- | --- |
+| Intake | 1 Neo/SparkMax | 1 DoubleSolenoid | --- |
+| Indexer | 1 CIM/TalonSRX | --- | --- |
+| Shooter | 2 Falcon500/TalonFX | Removed | 1 Integrated Encoder |
+| Climber | 2 CIMs/TalonSRX | 2 DoubleSolenoid | --- |
